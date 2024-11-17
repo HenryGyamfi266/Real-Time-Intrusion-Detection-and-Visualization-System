@@ -1,0 +1,15 @@
+WARNING: No libpcap provider available ! pcap won't be used
+Starting Intrusion Detection System...
+Starting packet capture on interface Wi-Fi...No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+No alerts detected yet.
+
+Exiting dashboard visualization...
+
+Process finished with exit code 0
